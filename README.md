@@ -1,5 +1,3 @@
 
-## Run jekyll locally
-```shell
-bundle exec jekyll serve
-```
+## Blog for GSSodhi
+
