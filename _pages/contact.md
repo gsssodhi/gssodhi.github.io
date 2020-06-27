@@ -2,9 +2,8 @@
 permalink: /contact/
 title: "Contact"
 classes: wide
-excerpt: Ways to connect with me through social media such as Twitter and Linkedin and via email.
+excerpt: Ways to connect with me through Twitter.
 ---
 
-If you're interested in my work or you just have a question or comment, please feel free to contact me via [mail](mailto:meamitkc@gmail.com).  I'm also available on [Twitter](https://twitter.com/amitness).  
+If you're interested in my work or you just have a question or comment, please feel free to contact me via [Twitter](https://twitter.com/GSSodhi2).  
   
-If you want to contact about typos, grammar and other errors in this blog, please open an issue [here](https://github.com/amitness/amitness.github.io/issues/new).
