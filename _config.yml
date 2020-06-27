@@ -17,13 +17,12 @@ title: Gagandeep Singh Sodhi
 email: gssodhi@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I am a placeholder.
-twitter_username: GSSodhi
-github_username: gssodhi
+twitter_username: GSSodhi2
 minimal_mistakes_skin: default
 search: true
 
 twitter:
-  username: "GSSodhi"
+  username: "GSSodhi2"
 
 # Build settings
 markdown: kramdown
@@ -67,10 +66,8 @@ author:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/GSSodhi"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/GSSodhi"
+      url: "https://twitter.com/GSSodhi2"
+
 
 #    - label: "Email"
 #      icon: "fab fa-envelope"
@@ -83,7 +80,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/GSSodhi"
+      url: "https://twitter.com/GSSodhi2"
 
 
 defaults:
@@ -131,7 +128,7 @@ social:
   type:  Person
   name:  Gagandeep Singh Sodhi
   links:
-    - "https://twitter.com/GSSodhi"
+    - "https://twitter.com/GSSodhi2"
 
 analytics:
   provider: "google-gtag"
